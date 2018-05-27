@@ -2,3 +2,20 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# Byte-compiled / optimized / DLL files
+*.manifest
+*.spec
+
+# Jekyll dev or build files
+_development_tool/*
+*.css.map
+*.scssc
+
+# Theme Gem files
+Gemfile.lock
+*.gem
+.gems
+jekyll-theme-type-on-strap.gemspec
+
+vendor/
